@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.appendChild(particle)
 
     // Animar la partícula
-    let opacity = 0.8
+    let opacity = 0.7
     let size = 4
     let posY = y
 
